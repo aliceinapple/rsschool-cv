@@ -41,3 +41,12 @@ console.log(comp([2, 2, 3], [4, 9, 9]))
 * [**hex_colors**](https://github.com/aliceinapple/hex_colors.git)
 * [**architecture_site**](https://github.com/aliceinapple/architecture_site.git)
 ***
+### Education:
+* **Gomel State University, geology and exploration of mineral deposits** 
+***Specialty:*** *engineer-geologist*
+2013 - 2017
+* **Redev courses, front-end development**
+2022 - now
+* **Erin Studies, English**
+2022 - now
+***
