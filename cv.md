@@ -50,3 +50,7 @@ console.log(comp([2, 2, 3], [4, 9, 9]))
 * **Erin Studies, English**
 2022 - now
 ***
+### Languages:
+* **English** - A2
+*(At the moment I continue my studies at the English Language School)*
+* **Russian** - Native
