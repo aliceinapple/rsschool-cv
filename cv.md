@@ -36,3 +36,8 @@ function comp(array1, array2) {
 console.log(comp([2, 2, 3], [4, 9, 9]))
 ```
 ***
+### Experience:
+**GitHub projects:**
+* [**hex_colors**](https://github.com/aliceinapple/hex_colors.git)
+* [**architecture_site**](https://github.com/aliceinapple/architecture_site.git)
+***
