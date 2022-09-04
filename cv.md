@@ -13,3 +13,9 @@ In my spare time, I make simple web pages. Everything I know, I have learned fro
 I want to further develop in the field of Front-end development.
 I easily find a common language with new people and know how to work in a team.
 ***
+### Skills:
+* JavaScript (Basic)
+* HTML5
+* CSS3/SCSS
+* Python (Basic)
+***
