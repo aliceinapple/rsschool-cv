@@ -8,8 +8,7 @@
 * **Instagram:** [zubko_v_i](https://www.instagram.com/zubko_v_i/)
 * **Github:** [aliceinapple](https://github.com/aliceinapple)
 * **Linkedin:** [viktoria-dragun](https://www.linkedin.com/in/viktoria-dragun-a76237238/)
-
-***
+---
 
 ### About Me:
 >My name is Victoria, I am a beginner Front-end developer. I have never worked in IT and I have absolutely no commercial experience, but I would really like to acquire it.
