@@ -55,12 +55,12 @@ console.log(comp([2, 2, 3], [4, 9, 9]))
 
 ## Education:
 * **Gomel State University, geology and exploration of mineral deposits** 
-***Specialty:*** *engineer-geologist*
-2013 - 2017
+    ***Specialty:*** *engineer-geologist*
+    2013 - 2017
 * **Redev courses, front-end development**
-2022 - now
+    2022 - now
 * **Erin Studies, English**
-2022 - now
+    2022 - now
 
 ***
 
