@@ -1,1 +1,1 @@
-https://aliceinapple.github.io/rsschool-cv/cv
+https://aliceinapple.github.io/rsschool-cv/
